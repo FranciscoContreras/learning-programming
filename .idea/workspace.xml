@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ComputeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/KilometerToMile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,13 +42,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComputeLoan">
+  <component name="RunManager" selected="Application.KilometerToMile">
     <configuration name="ComputeLoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.ComputeLoan" />
       <module name="learning-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KilometerToMile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.KilometerToMile" />
+      <module name="learning-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KilometerToMile" />
         <item itemvalue="Application.ComputeLoan" />
         <item itemvalue="Application.SalesTax" />
         <item itemvalue="Application.ShowCurrentTime" />
@@ -103,7 +117,7 @@
       <workItem from="1571709835353" duration="73000" />
       <workItem from="1571709928669" duration="66000" />
       <workItem from="1571710010741" duration="1138000" />
-      <workItem from="1572063567538" duration="2200000" />
+      <workItem from="1572063567538" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="Fahrenheit to celcious">
       <created>1572063852924</created>
@@ -126,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572064839625</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Compute Loan">
+      <created>1572065787462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572065787462</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fahrenheit to celcious" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fahrenheit to celcious" />
+    <MESSAGE value="Compute Loan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compute Loan" />
   </component>
 </project>
