@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/ComputeChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/MileToKilometer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn Java/Chapter2/SalesTax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn Java/Chapter2/ShoeCurrentTIme.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComputeChange">
+  <component name="RunManager" selected="Application.MileToKilometer">
     <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.ComputeChange" />
       <module name="learning-programming" />
@@ -85,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MileToKilometer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.MileToKilometer" />
+      <module name="learning-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.SalesTax" />
       <module name="learning-programming" />
@@ -98,73 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowCurrentTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ShowCurrentTime" />
-      <module name="learning-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="learning-programming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="learning-programming" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MileToKilometer" />
         <item itemvalue="Application.ComputeChange" />
         <item itemvalue="Application.ComputeLoan" />
         <item itemvalue="Application.KilometerToMile" />
         <item itemvalue="Application.SalesTax" />
-        <item itemvalue="Application.ShowCurrentTime" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +123,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="" />
+      <changelist id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="" />
       <created>1571709831990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -211,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572065787462</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Compute Change exercise">
+      <created>1572452484999</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572452484999</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +190,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fahrenheit to celcious" />
     <MESSAGE value="Compute Loan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compute Loan" />
+    <MESSAGE value="Compute Change exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compute Change exercise" />
   </component>
 </project>
