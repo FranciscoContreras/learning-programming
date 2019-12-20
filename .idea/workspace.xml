@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/MetersToFeet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/VolumeOfTriangle.java" afterDir="false" />
+    <list default="true" id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="Converting Meters to Feet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning-programming/Chapter2/Exercises/VolumeOfTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learning-programming/Chapter2/Exercises/VolumeOfTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Exercises/MetersToFeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/MetersToFeet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VolumeOfTriangle">
+  <component name="RunManager" selected="Application.MetersToFeet">
     <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.ComputeChange" />
       <module name="learning-programming" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KilometerToMile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.KilometerToMile" />
+    <configuration name="MetersToFeet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.MetersToFeet" />
       <module name="learning-programming" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetersToFeet" />
         <item itemvalue="Application.VolumeOfTriangle" />
         <item itemvalue="Application.MileToKilometer" />
         <item itemvalue="Application.ComputeChange" />
         <item itemvalue="Application.ComputeLoan" />
-        <item itemvalue="Application.KilometerToMile" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572991611699</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kilometers to Miles Exercise">
+      <created>1576864271560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576864271560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +207,7 @@
     <MESSAGE value="Compute Loan" />
     <MESSAGE value="Compute Change exercise" />
     <MESSAGE value="Kilometers to Miles Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kilometers to Miles Exercise" />
+    <MESSAGE value="Converting Meters to Feet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converting Meters to Feet" />
   </component>
 </project>
