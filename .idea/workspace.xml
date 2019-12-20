@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/MileToKilometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/MetersToFeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/VolumeOfTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MileToKilometer">
+  <component name="RunManager" selected="Application.VolumeOfTriangle">
     <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.ComputeChange" />
       <module name="learning-programming" />
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.SalesTax" />
+    <configuration name="VolumeOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.VolumeOfTriangle" />
       <module name="learning-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.*" />
+          <option name="PATTERN" value="Chapter2.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VolumeOfTriangle" />
         <item itemvalue="Application.MileToKilometer" />
         <item itemvalue="Application.ComputeChange" />
         <item itemvalue="Application.ComputeLoan" />
         <item itemvalue="Application.KilometerToMile" />
-        <item itemvalue="Application.SalesTax" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572452484999</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kilometers to Miles Exercise">
+      <created>1572991611699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572991611699</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +199,7 @@
     <MESSAGE value="Fahrenheit to celcious" />
     <MESSAGE value="Compute Loan" />
     <MESSAGE value="Compute Change exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compute Change exercise" />
+    <MESSAGE value="Kilometers to Miles Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kilometers to Miles Exercise" />
   </component>
 </project>
