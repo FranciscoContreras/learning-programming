@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Exercises/SquareMeterToPing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/SquareMeterToPing.java" afterDir="false" />
-    </list>
+    <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +129,7 @@
       <workItem from="1571709928669" duration="66000" />
       <workItem from="1571710010741" duration="1138000" />
       <workItem from="1572063567538" duration="3318000" />
-      <workItem from="1576961503947" duration="632000" />
+      <workItem from="1576961503947" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="Fahrenheit to celcious">
       <created>1572063852924</created>
@@ -191,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576864811680</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Converting squared meters to pings">
+      <created>1576962200402</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576962200402</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +219,7 @@
     <MESSAGE value="Compute Change exercise" />
     <MESSAGE value="Kilometers to Miles Exercise" />
     <MESSAGE value="Converting Meters to Feet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Converting Meters to Feet" />
+    <MESSAGE value="Converting squared meters to pings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converting squared meters to pings" />
   </component>
 </project>
