@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/SquareMeterToPing.java" afterDir="false" />
+    <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/Exercises/SquareMeterToPing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/SquareMeterToPing.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MetersToFeet">
+  <component name="RunManager" selected="Application.SquareMeterToPing">
     <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.ComputeChange" />
       <module name="learning-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter2.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComputeLoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ComputeLoan" />
-      <module name="learning-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareMeterToPing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.SquareMeterToPing" />
+      <module name="learning-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VolumeOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.VolumeOfTriangle" />
       <module name="learning-programming" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareMeterToPing" />
         <item itemvalue="Application.MetersToFeet" />
         <item itemvalue="Application.VolumeOfTriangle" />
         <item itemvalue="Application.MileToKilometer" />
         <item itemvalue="Application.ComputeChange" />
-        <item itemvalue="Application.ComputeLoan" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +124,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d538f479-b338-4d61-9cc3-4e40190f44a5" name="Default Changelist" comment="" />
+      <changelist id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="" />
       <created>1571709831990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -132,6 +133,7 @@
       <workItem from="1571709928669" duration="66000" />
       <workItem from="1571710010741" duration="1138000" />
       <workItem from="1572063567538" duration="3318000" />
+      <workItem from="1576961503947" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Fahrenheit to celcious">
       <created>1572063852924</created>
