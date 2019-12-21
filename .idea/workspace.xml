@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="" />
+    <list default="true" id="23ce7266-1e24-4126-a1fc-05e42565f6a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/Exercises/CalculateTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareMeterToPing">
-    <configuration name="ComputeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.ComputeChange" />
+  <component name="RunManager" selected="Application.CalculateTips">
+    <configuration name="CalculateTips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.Exercises.CalculateTips" />
       <module name="learning-programming" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculateTips" />
         <item itemvalue="Application.SquareMeterToPing" />
         <item itemvalue="Application.MetersToFeet" />
         <item itemvalue="Application.VolumeOfTriangle" />
         <item itemvalue="Application.MileToKilometer" />
-        <item itemvalue="Application.ComputeChange" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +132,8 @@
       <workItem from="1571709928669" duration="66000" />
       <workItem from="1571710010741" duration="1138000" />
       <workItem from="1572063567538" duration="3318000" />
-      <workItem from="1576961503947" duration="1032000" />
+      <workItem from="1576961503947" duration="1175000" />
+      <workItem from="1576962699037" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="Fahrenheit to celcious">
       <created>1572063852924</created>
@@ -194,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576962200402</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Converting squared meters to pings">
+      <created>1576962541478</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576962541478</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
